@@ -24,13 +24,13 @@ export default function AboutPage() {
           <div className="text-center md:text-left">
             <div className="flex flex-col space-y-1">
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                international man of mystery (i've been to Canada)
+                international man of mystery (i&apos;ve been to Canada)
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
                 software engineer by day and also by night
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                of gloucester twp, nj; cs at montclair state in '19
+                of gloucester twp, nj; cs at montclair state in &apos;19
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
                 first hoboken, nj; then boulder, co; now los angeles, ca
