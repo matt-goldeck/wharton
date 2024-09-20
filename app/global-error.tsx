@@ -7,6 +7,8 @@ export default function GlobalError({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  console.error(error); // Log the error to avoid annoying unused variable linting errors
+
   return (
     <html>
       <body>
