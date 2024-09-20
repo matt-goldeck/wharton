@@ -1,31 +1,37 @@
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaStrava, FaMountain } from "react-icons/fa";
 
 export function Footer() {
   return (
     <footer className="my-24">
       <div className="container flex flex-col items-center">
-        {/* Social Media Icons */}
         <div className="flex space-x-6 mb-4">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/matt-goldeck/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-400">
             <FaLinkedin className="h-6 w-6" />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/matt-goldeck"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-400">
             <FaGithub className="h-6 w-6" />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.strava.com/athletes/mgoldeck"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-gray-400">
-            <FaInstagram className="h-6 w-6" />
+            <FaStrava className="h-6 w-6" />
+          </a>
+          <a
+            href="https://www.mountainproject.com/user/201579798/matt-goldeck"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white hover:text-gray-400">
+            <FaMountain className="h-6 w-6" />
           </a>
         </div>
 

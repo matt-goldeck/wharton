@@ -14,6 +14,11 @@ export default function FAQPage() {
       answer: "i don't know",
     },
     {
+      question: "What kind of engineering do you do?",
+      answer:
+        "software. mostly backend web stuff. some devops. some data. frontend when theres a fire and the org has insurance.",
+    },
+    {
       question: "What keeps you going?",
       answer: "building cool stuff and working with smart people",
     },
@@ -31,16 +36,12 @@ export default function FAQPage() {
       answer: "thats rude",
     },
     {
+      question: "What are you into right now?",
+      answer: "i've been playing with rust and it's cool",
+    },
+    {
       question: "Do you do consultant work?",
       answer: "no (maybe)",
-    },
-    {
-      question: "What are you into right now?",
-      answer: "i've been playing with rust and thats cool",
-    },
-    {
-      question: "Do you climb rocks?",
-      answer: "yeah dog all the time",
     },
     {
       question:
@@ -50,12 +51,12 @@ export default function FAQPage() {
           <div>
             a good start would have been a stronger focus on the niche markets
             they had traction in. amc essentially originated the midsize suv
-            segment but never fully embraced it. the grand cherokee is a once in
-            a generation product that drove a stake through the heart of the
-            sedan and sold the world on the power and sophistication of the
+            segment but never fully capitalized on it. the grand cherokee is a
+            once in a generation product that drove a stake through the heart of
+            the sedan and sold the world on the power and sophistication of the
             american suv. but because amc sat on its hands the zj is forever
-            going to be accredited to lee iacocca and his goons at chrysler,
-            meanwhile amc is in the dust bin of history
+            accredited to lee iacocca and his goons at chrysler, and amc is an
+            also-ran in the dust bin of history
           </div>
           <div className="mt-1">
             also they could have tried building less uglier cars lol
@@ -64,12 +65,17 @@ export default function FAQPage() {
       ),
     },
     {
+      question: "Whats your favorite v4 boulder problem?",
+      answer:
+        "dharma bums in wild basin is without a doubt the best v4 on this earth and i will fight you. the v7 extension gangster's paradise is 🤌",
+    },
+    {
       question: "Best Ski hill?",
       answer: "eldora",
     },
     {
       question: "Is there anything you can't do?",
-      answer: "functional programming :(",
+      answer: "hand eye coordination :(",
     },
   ];
   return (
