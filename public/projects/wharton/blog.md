@@ -35,7 +35,7 @@ a cool thing you might not know is he was kind of an asshole and hatched a somew
 
 a renowned philadelphia businessman, he began to gobble up disused industrial tracts across the delaware under the guise of expanding his existing farming enterprise. but our boy joey actually low key kind of wanted to turn most of south jersey into a [series of mega reservoirs to pipe drinking water to philly](https://www.inquirer.com/news/water-pinelands-drinking-philadelphia-watershed-pinelands-wharton-20230327.html).
 
-the legislature caught wind and, justifiably, legislated him out of this mortal coil and into the next dimension. the wharton estate was stuck with a series of useless land tracts for another 70 years until they could sell it to the state, who bundled it into a [state forest](https://en.wikipedia.org/wiki/Wharton_State_Forest) in the new (pinelands national preserve)[https://en.wikipedia.org/wiki/Pinelands_National_Reserve].
+the legislature caught wind and, justifiably, legislated him out of this mortal coil and into the next dimension. the wharton estate was stuck with a series of useless land tracts for another 70 years until they could sell it to the state, who bundled it into a [state forest](https://en.wikipedia.org/wiki/Wharton_State_Forest) in the new [pinelands national preserve](https://en.wikipedia.org/wiki/Pinelands_National_Reserve).
 
 so i codename this blog's [github repo](https://github.com/matt-goldeck/wharton) not after the man, but his folly and the forest it so serendipitously gave us
 
