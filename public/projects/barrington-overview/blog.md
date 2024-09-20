@@ -18,9 +18,9 @@ It's really two stories: one about the technical challenges behind building a fi
 
 With the goal of communicating these stories to everybody - I’ve split this blog post in two:
 
-- [A brief and sappy historical half]({% post_url 2020-05-09-barrington-historical %}) that sheds some light on the film and my grandmother.
+- [A brief and sappy historical half](https://www.batstolabs.com/projects/barrington-story) that sheds some light on the film and my grandmother.
 
-- [An absurdly long technical half]({% post_url 2020-05-09-barrington-technical %}) which walks through the design, implementation, and usage of the scanner.
+- [An absurdly long technical half](https://www.batstolabs.com/projects/barrington-tech) which walks through the design, implementation, and usage of the scanner.
 
 You can read both if you’d like, or just one, or neither. Or if none of that sounds appealing, you can go straight to the playlist [here.](https://www.youtube.com/playlist?list=PLuS_-YgXGfUfVWk-5kj0gmPYiW29hIcaS)
 
