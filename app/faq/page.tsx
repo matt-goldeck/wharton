@@ -7,7 +7,7 @@ export default function FAQPage() {
   const items = [
     {
       question: "What is Batsto Labs?",
-      answer: "matt goldeck wearing a false mustache",
+      answer: "matt goldeck in a false mustache",
     },
     {
       question: "Why?",
