@@ -16,7 +16,7 @@ export default function FAQPage() {
     {
       question: "What kind of engineering do you do?",
       answer:
-        "software. mostly backend web stuff. some devops. some data. frontend when theres a fire and the org has insurance.",
+        "software. backend stuff. some devops. some data. frontend when theres a fire and the org has insurance.",
     },
     {
       question: "What keeps you going?",
@@ -65,9 +65,14 @@ export default function FAQPage() {
       ),
     },
     {
-      question: "Whats your favorite v4 boulder problem?",
+      question:
+        "What are your thoughts on monorepos vs polyrepos? Does the monolith have a place in modern dev?",
+      answer: "no comment (but yes)",
+    },
+    {
+      question: "What's the creamiest boulder you've ever touched?",
       answer:
-        "dharma bums in wild basin is without a doubt the best v4 on this earth and i will fight you. the v7 extension gangster's paradise is 🤌",
+        "look my dude im gonna let you in on a little crag near lyons called lions den. honestly the approach sucks and the rock isn't great but there's this incredible v6 called hyperion proboscis and i found god in a heel hook there and you can too",
     },
     {
       question: "Best Ski hill?",
