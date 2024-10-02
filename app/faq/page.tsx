@@ -66,11 +66,11 @@ export default function FAQPage() {
     },
     {
       question:
-        "What are your thoughts on monorepos vs polyrepos? Does the monolith have a place in modern dev?",
+        "Does the monolith have a place in modern development?",
       answer: "no comment (but yes)",
     },
     {
-      question: "What's the creamiest boulder you've ever touched?",
+      question: "What's the creamiest rock you've ever touched?",
       answer:
         "look my dude im gonna let you in on a little crag near lyons called lions den. honestly the approach sucks and the rock isn't great but there's this incredible v6 called hyperion proboscis and i found god in a heel hook there and you can too",
     },

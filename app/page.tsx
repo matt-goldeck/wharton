@@ -16,9 +16,8 @@ export default function Home() {
           staggeringly comic series of boom-and-bust cycles
         </p>
         <p className="mt-4">
-          utterly unremarkable as both a place of recreation and a historical
-          monument, the forest now provides shade for retirees and a backdrop
-          for wedding photos
+          utterly unremarkable, the park is just shade for retirees and a backdrop
+          for photos
         </p>
         <p className="mt-4">
           yet a subtle magic lingers; a defiance, a restless persistence, an
