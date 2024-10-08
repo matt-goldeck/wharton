@@ -33,7 +33,7 @@ export default function AboutPage() {
                 of gloucester twp, nj; cs at montclair state in &apos;19
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                first hoboken, nj; then boulder, co; now los angeles, ca
+                first hoboken, nj; then boulder, co
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
                 i like to do things
