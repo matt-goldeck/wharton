@@ -16,7 +16,7 @@ export default function Home() {
           staggeringly comic series of boom-and-bust cycles
         </p>
         <p className="mt-4">
-          utterly unremarkable; shade for retirees, a
+          utterly unremarkable shade for retirees, a
           backdrop for wedding photos
         </p>
         <p className="mt-4">
