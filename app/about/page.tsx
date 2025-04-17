@@ -30,7 +30,7 @@ export default function AboutPage() {
                 software engineer by day but also by night
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                of sunny gloucester twp, nj; cs at montclair state in '19
+                of sunny gloucester twp, nj; cs at montclair state in 2019
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
                 first hoboken, nj; then boulder, co; now los angeles, ca
