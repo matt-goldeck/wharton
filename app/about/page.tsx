@@ -24,25 +24,25 @@ export default function AboutPage() {
           <div className="text-center md:text-left">
             <div className="flex flex-col space-y-1">
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                international man of mystery (i&apos;ve been to Canada)
+                international man of mystery
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                software engineer by day and also by night
+                software engineer by day but also by night
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                of gloucester twp, nj; cs at montclair state in &apos;19
+                of sunny gloucester twp, nj; cs at montclair state in '19
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
-                first hoboken, nj; then boulder, co
+                first hoboken, nj; then boulder, co; now los angeles, ca
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323">
                 i like to do things
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323 ml-5">
-                outside: running, skiing, climbing
+                outside: running, skiing, climbing, trucks, etc
               </p>
               <p className="text-lg md:text-xl text-gray-300 font-vt323 ml-5">
-                inside: reading, coding, trucks, etc
+                inside: reading, coding, games, etc
               </p>
             </div>
           </div>

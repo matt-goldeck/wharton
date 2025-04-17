@@ -36,7 +36,7 @@ export function Footer() {
         </div>
 
         <p className="text-md text-gray-400 font-vt323">
-          built with love in boulder, co
+          built with love in los angeles, ca
         </p>
       </div>
     </footer>

@@ -16,7 +16,7 @@ export default function FAQPage() {
     {
       question: "What kind of engineering do you do?",
       answer:
-        "software. backend stuff. some devops. some data. frontend when theres a fire and the org has insurance.",
+        "software. backend stuff. some platform. some data. frontend when theres a fire and the org has insurance.",
     },
     {
       question: "What keeps you going?",
@@ -40,8 +40,8 @@ export default function FAQPage() {
       answer: "i've been playing with rust and it's cool",
     },
     {
-      question: "Do you do consultant work?",
-      answer: "no (maybe)",
+      question: "Isn't Rust just a toy for huge nerds?",
+      answer: "no (yes)",
     },
     {
       question:
