@@ -12,16 +12,13 @@ export default function Home() {
           a ruin squatting in the coastal pine barrens of southern new jersey
         </p>
         <p className="mt-4">
-          acidic soil, a forest of craggy pitch pine, perennial wildfire, a
-          staggeringly comic series of boom-and-bust cycles
+          acidic soil, craggy pitch pine, perennial wildfire, a staggeringly
+          comic series of boom-and-bust cycles
         </p>
+        <p className="mt-4">yet a subtle magic lingers</p>
         <p className="mt-4">
-          utterly unremarkable shade for retirees, a
-          backdrop for wedding photos
-        </p>
-        <p className="mt-4">
-          yet a subtle magic lingers; a defiance, a restless persistence, an
-          unyielding drive to invent and reinvent
+          a defiance, a restless persistence, an unyielding drive to invent and
+          reinvent
         </p>
         <p className="mt-4">we are kindred spirits</p>
       </div>
