@@ -118,8 +118,8 @@ I don't want your data. You don't want me to have your data. I don't want to pay
 So it'd be cool if it was easier to run this locally. It's not terribly difficult now, but it would be much easier if you could:
 
 - put in your OpenAI key
-- spin up a Docker container
-- go
+- `docker compose up`
+- get a job without me knowing about it 
 
 ### ⏰ Job Page Tracking
 
