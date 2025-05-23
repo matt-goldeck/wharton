@@ -81,9 +81,11 @@ _Your misunderstood former rival, turned steadfast wingman._
 
 Repo: https://github.com/matt-goldeck/iceman
 
+The AI engine built in FastAPI and hosted through Railway.
+
 Handles beefier tasks that will one day maybe be async. Resume uploads, AI tasks, etc. A lot TBD.
 
-Directly connects to Supabase's postgres db and abstracts it with [SQLModel](https://sqlmodel.tiangolo.com/) which is like SQLAlchemy but for lazy people.
+Directly connects to Supabase's postgres db and abstracts it with [SQLModel](https://sqlmodel.tiangolo.com/) which is just SQLAlchemy in a wig.
 
 ### Miramar
 
@@ -95,9 +97,9 @@ Repo: https://github.com/matt-goldeck/miramar
 
 ## roadmap (aka flightplan 😎)
 
-I haven't had a chance to work on ,ost of what I actually want to build. I needed a foundation to build off of, and at bare minimum, a system to track jobs.
+I haven't had a chance to work on most of what I actually want to build. I needed a foundation to build from, and at bare minimum I needed a working data collection system.
 
-So this is all the fun stuff.
+So now I can do all the fun stuff.
 
 ### 🧰 Better AI Tooling
 
