@@ -57,9 +57,9 @@ Look dude just indulge me.
 
 Names should be fun. I will die on this hill.
 
-There are a lot of professional reasons for this: increased personal investment and ownership, it doesn't limit functionality of the application, easy and universal identification across the org. 
+There are a lot of professional reasons for this: fun names increase personal investment and ownership, they don't dictate scope of the application, and they're easy and universal identifiers for cross-functional orgs.
 
-But I don't care about any of that. I just think life should be fun, and the more fun we can have doing the mundane, the better the world is for it.
+But I don't care about any of that. I think life should be fun. The more fun we can have, the better the world is for it.
 
 ## how is it built?
 
